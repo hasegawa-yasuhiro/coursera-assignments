@@ -1,0 +1,42 @@
+
+body {
+    font-family: cursive;
+}
+
+h3 {
+    text-align: center;
+    color: azure;
+}
+
+p {
+    font-size: xx-large;
+}
+
+.container {
+    background-color: #999999;
+    border: solid;
+    width: auto;
+}
+
+li {
+    padding: 5px;
+    border: solid 2px;
+}
+
+.container-fluid {
+    background-color: #999999;
+    width: 75%;
+    text-align: center;
+}
+
+.smaller-text{
+    font-size: medium;
+}
+
+.dropdown-text {
+    font-size: medium;
+}
+
+.collapsed {
+    background-color:azure;
+}
